@@ -1,0 +1,4 @@
+repository "Hack-Kstate@jaidentullis@cloud"
+  path "/"
+    br "/main"
+    co "/main"
